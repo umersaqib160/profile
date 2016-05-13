@@ -1,0 +1,64 @@
+h1 {
+  color: red;
+  font-size: 30px;
+  font-family:"Times New Roman";
+}
+
+a {
+  text-decoration: none
+}
+
+
+body {
+  background-color: rgb(29, 156, 114);
+  color:red;
+  margin: 0;
+  padding: 5px;
+}
+
+li {
+  display: inline-block;
+  margin: auto;
+  padding: 0 20px 0 20px;;
+}
+
+ul {
+  padding-left: 0
+}
+
+ul li a {
+  font-size: 20px;
+  color: rgb(200, 200, 200);
+}
+
+
+ul li a:hover {
+    color: red;
+}
+
+.banner {
+  background-color: white;
+  text-align: center;
+  width: 600px;
+  margin: 20 auto;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+.banner2 {
+  background-color: white;
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.dp {
+  border-radius: 50%;
+  padding: 20px;
+}
